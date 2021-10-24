@@ -1,0 +1,15 @@
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\bin\Debug\net5.0\DotNetEngineerAssignment.Persistence.deps.json
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\bin\Debug\net5.0\DotNetEngineerAssignment.Persistence.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\bin\Debug\net5.0\ref\DotNetEngineerAssignment.Persistence.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\bin\Debug\net5.0\DotNetEngineerAssignment.Persistence.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\bin\Debug\net5.0\DotNetEngineerAssignment.Core.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\bin\Debug\net5.0\DotNetEngineerAssignment.Core.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.csproj.AssemblyReference.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.AssemblyInfoInputs.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.AssemblyInfo.cs
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.csproj.CopyComplete
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\ref\DotNetEngineerAssignment.Persistence.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Persistence\obj\Debug\net5.0\DotNetEngineerAssignment.Persistence.pdb

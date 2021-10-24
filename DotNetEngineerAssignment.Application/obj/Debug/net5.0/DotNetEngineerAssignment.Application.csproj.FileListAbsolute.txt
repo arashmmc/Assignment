@@ -1,0 +1,17 @@
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Application.deps.json
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Application.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\ref\DotNetEngineerAssignment.Application.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Application.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Core.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Persistence.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Core.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Persistence.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.csproj.AssemblyReference.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.AssemblyInfoInputs.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.AssemblyInfo.cs
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.csproj.CopyComplete
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\ref\DotNetEngineerAssignment.Application.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.pdb

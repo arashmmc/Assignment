@@ -1,0 +1,11 @@
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.deps.json
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\bin\Debug\net5.0\ref\DotNetEngineerAssignment.Resource.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.AssemblyInfoInputs.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.AssemblyInfo.cs
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.csproj.CoreCompileInputs.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\ref\DotNetEngineerAssignment.Resource.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.pdb
