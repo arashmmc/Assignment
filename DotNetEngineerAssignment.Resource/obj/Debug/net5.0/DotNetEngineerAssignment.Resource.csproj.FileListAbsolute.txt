@@ -9,3 +9,6 @@ C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Re
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.dll
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\ref\DotNetEngineerAssignment.Resource.dll
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.csproj.AssemblyReference.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.MessagesEN.resources
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Resource\obj\Debug\net5.0\DotNetEngineerAssignment.Resource.csproj.GenerateResource.cache

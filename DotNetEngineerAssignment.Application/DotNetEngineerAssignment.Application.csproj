@@ -11,6 +11,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DotNetEngineerAssignment.Core\DotNetEngineerAssignment.Core.csproj" />
     <ProjectReference Include="..\DotNetEngineerAssignment.Persistence\DotNetEngineerAssignment.Persistence.csproj" />
+    <ProjectReference Include="..\DotNetEngineerAssignment.Resource\DotNetEngineerAssignment.Resource.csproj" />
   </ItemGroup>
 
 </Project>

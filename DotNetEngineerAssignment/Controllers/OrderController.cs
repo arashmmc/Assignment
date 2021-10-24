@@ -29,7 +29,7 @@ namespace DotNetEngineerAssignment.Controllers
         public async Task<OrderInformation> GetById(long id) => await _orderService.GetByIdAsync(id);
 
         [HttpPost]
-        public async Task Create(OrderInformation order) => await _orderService.CreateAsync(order);
+        public async Task<RequiredBinWidth> Create(OrderInformation order) => await _orderService.CreateAsync(order);
 
         [HttpPost]
         public async Task Update(OrderInformation order) => await _orderService.UpdateAsync(order);
@@ -41,7 +41,7 @@ namespace DotNetEngineerAssignment.Controllers
         public async Task Delete(long id) => await _orderService.DeleteAsync(id);
 
         [HttpPost]
-        public async Task SeedDatabase() => await _seedDatabaseService.Do();
+        public async Task<string> SeedDatabase() => await _seedDatabaseService.Do();
 
     }
 }

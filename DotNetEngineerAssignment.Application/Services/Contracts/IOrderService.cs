@@ -8,7 +8,7 @@ namespace DotNetEngineerAssignment.Application.Services.Contracts
     {
         Task<IEnumerable<OrderInformation>> GetAllAsync();
         Task<OrderInformation> GetByIdAsync(long id);
-        Task CreateAsync(OrderInformation order);
+        Task<RequiredBinWidth> CreateAsync(OrderInformation order);
         Task UpdateAsync(OrderInformation order);
         Task UpdateOrderItemInfoAsync(OrderItemInfo orderItemInfo);
         Task DeleteAsync(long id);

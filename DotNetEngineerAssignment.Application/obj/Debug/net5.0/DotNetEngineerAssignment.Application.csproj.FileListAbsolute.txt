@@ -15,3 +15,5 @@ C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Ap
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.dll
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\ref\DotNetEngineerAssignment.Application.dll
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\obj\Debug\net5.0\DotNetEngineerAssignment.Application.pdb
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Application\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.pdb

@@ -29,12 +29,19 @@ namespace DotNetEngineerAssignment.Application.Services.Concretes
 
         public async Task<IEnumerable<OrderInformation>> GetAllAsync() => await _orderRepository.GetAllAsync();
 
-        public async Task CreateAsync(OrderInformation order)
+        public async Task<RequiredBinWidth> CreateAsync(OrderInformation order)
         {
             CalculateRequiredWith(order);
 
             await _orderRepository.CreateAsync(order);
             await _orderRepository.SaveChangesAsync();
+
+            var result = new RequiredBinWidth
+            {
+                MinimumRequiredBinWidth = order.RequiredBinWidth
+            };
+
+            return await Task.FromResult(result);
         }
 
         public async Task UpdateAsync(OrderInformation order)
@@ -50,7 +57,7 @@ namespace DotNetEngineerAssignment.Application.Services.Concretes
         {
             var currentOrder = await _orderRepository.GetByIdAsync(orderItemInfo.OrderId);
             var item = currentOrder.Items.Find(i => i.Id == orderItemInfo.Id);
-            
+
             item.ProductType = orderItemInfo.ProductType;
             item.Quantity = orderItemInfo.Quantity;
 

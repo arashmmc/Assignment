@@ -237,3 +237,5 @@ C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Te
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Tests\obj\Debug\net5.0\DotNetEngineerAssignment.Tests.dll
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Tests\obj\Debug\net5.0\ref\DotNetEngineerAssignment.Tests.dll
 C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Tests\obj\Debug\net5.0\DotNetEngineerAssignment.Tests.genruntimeconfig.cache
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Tests\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.dll
+C:\Users\Arash\Source\Repos\DotNetEngineerAssignment\DotNetEngineerAssignment.Tests\bin\Debug\net5.0\DotNetEngineerAssignment.Resource.pdb

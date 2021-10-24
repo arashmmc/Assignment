@@ -1,6 +1,7 @@
 ﻿using DotNetEngineerAssignment.Core.Domain.Entity;
 using DotNetEngineerAssignment.Core.Domain.Repository;
 using DotNetEngineerAssignment.Domain.Eums;
+using DotNetEngineerAssignment.Resource;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -13,9 +14,9 @@ namespace DotNetEngineerAssignment.Application.SeedWork
         {
             _orderRepository = orderRepository;
         }
-        public async Task Do()
+        public async Task<string> Do()
         {
-            if (_orderRepository.HasData()) return;
+            if (_orderRepository.HasData()) return $"{MessagesEN.DataExists}";
 
             var orderInfos = new List<OrderInformation>
             {
@@ -60,7 +61,7 @@ namespace DotNetEngineerAssignment.Application.SeedWork
             await _orderRepository.AddRange(orderInfos);
             await _orderRepository.SaveChangesAsync();
 
-            await Task.CompletedTask;
+            return await Task.FromResult($"{MessagesEN.SeedingFinished}");
         }
     }
 }

@@ -184,6 +184,16 @@
         "runtime": {
           "bin/placeholder/DotNetEngineerAssignment.Persistence.dll": {}
         }
+      },
+      "DotNetEngineerAssignment.Resource/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/DotNetEngineerAssignment.Resource.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DotNetEngineerAssignment.Resource.dll": {}
+        }
       }
     }
   },
@@ -553,12 +563,18 @@
       "type": "project",
       "path": "../DotNetEngineerAssignment.Persistence/DotNetEngineerAssignment.Persistence.csproj",
       "msbuildProject": "../DotNetEngineerAssignment.Persistence/DotNetEngineerAssignment.Persistence.csproj"
+    },
+    "DotNetEngineerAssignment.Resource/1.0.0": {
+      "type": "project",
+      "path": "../DotNetEngineerAssignment.Resource/DotNetEngineerAssignment.Resource.csproj",
+      "msbuildProject": "../DotNetEngineerAssignment.Resource/DotNetEngineerAssignment.Resource.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "DotNetEngineerAssignment.Core >= 1.0.0",
       "DotNetEngineerAssignment.Persistence >= 1.0.0",
+      "DotNetEngineerAssignment.Resource >= 1.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 5.0.0"
     ]
   },
@@ -599,6 +615,9 @@
             },
             "C:\\Users\\Arash\\Source\\Repos\\DotNetEngineerAssignment\\DotNetEngineerAssignment.Persistence\\DotNetEngineerAssignment.Persistence.csproj": {
               "projectPath": "C:\\Users\\Arash\\Source\\Repos\\DotNetEngineerAssignment\\DotNetEngineerAssignment.Persistence\\DotNetEngineerAssignment.Persistence.csproj"
+            },
+            "C:\\Users\\Arash\\Source\\Repos\\DotNetEngineerAssignment\\DotNetEngineerAssignment.Resource\\DotNetEngineerAssignment.Resource.csproj": {
+              "projectPath": "C:\\Users\\Arash\\Source\\Repos\\DotNetEngineerAssignment\\DotNetEngineerAssignment.Resource\\DotNetEngineerAssignment.Resource.csproj"
             }
           }
         }

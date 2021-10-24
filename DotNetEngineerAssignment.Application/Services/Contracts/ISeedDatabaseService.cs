@@ -4,6 +4,6 @@ namespace DotNetEngineerAssignment.Application.SeedWork
 {
     public interface ISeedDatabaseService
     {
-        Task Do();
+        Task<string> Do();
     }
 }
